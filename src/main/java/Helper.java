@@ -7,9 +7,9 @@ public class Helper {
 
     public static void main(String[] args) throws IOException{
 
-        BufferedReader pr = new BufferedReader(new FileReader("path_to_the_final_prN.txt"));
-        BufferedReader transition = new BufferedReader(new FileReader("path_to_transition.txt"));
-        FileWriter fileWriter = new FileWriter("path_to_where_you_want_to_save_result.cvs");
+        BufferedReader pr = new BufferedReader(new FileReader("/Users/ChenxiLi/Desktop/pr30.txt"));
+        BufferedReader transition = new BufferedReader(new FileReader("/Users/ChenxiLi/Desktop/transition.txt"));
+        FileWriter fileWriter = new FileWriter("/Users/ChenxiLi/Desktop/result.csv");
 
         Map<String, String> page_pr = new HashMap<String, String>();
 
