@@ -70,7 +70,6 @@ Single direction, id to id:
 
 ### Result Display
 - Use different ID to represent the different website, the link between points represents the transition among different websites
-> ![image](https://github.com/chenxi1103/Google-PageRank/blob/master/result/result1.png)
 > ![image](https://github.com/chenxi1103/Google-PageRank/blob/master/result/result2.png)
 
 ### Reference: Data Origin
