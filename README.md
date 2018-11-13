@@ -1,5 +1,5 @@
 # Google-PageRank
-Realized PageRank by processing data by MapReduce, visualized by JS
+Realized PageRank by processing data by MapReduce, visualized by JS/JQuery/D3.js
 
 ## Algorithm: PageRank
 is an algorithm used by Google search to rank websites in their search engine results
@@ -67,6 +67,11 @@ First we try to think about when a human being enter a dead-end or spider-traps 
 Single direction, id to id:
 1 2 (from page1 to page2)
 2 4 (from page2 to page4)
+
+### Result Display
+- Use different ID to represent the different website, the link between points represents the transition among different websites
+> ![image](https://github.com/chenxi1103/Google-PageRank/blob/master/result/result1.png)
+> ![image](https://github.com/chenxi1103/Google-PageRank/blob/master/result/result2.png)
 
 ### Reference: Data Origin
 https://www.limfinity.com/ir/
